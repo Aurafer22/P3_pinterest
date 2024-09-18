@@ -1,0 +1,22 @@
+.button {
+  width: 123px;
+  height: 45px;
+  padding: 28px, 70px;
+  border-radius: 30px;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+}
+.primaryButton {
+  color: white;
+  background-color: var(--ARF-color-Red);
+}
+.secondaryButton {
+  color: white;
+  background-color: var(--ARF-color-Black);
+}
+.terciaryButton {
+  width: 90px;
+  color: var(--ARF-color-Black);
+  background-color: transparent;
+}
